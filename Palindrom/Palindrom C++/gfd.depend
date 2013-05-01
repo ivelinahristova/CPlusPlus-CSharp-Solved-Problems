@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1352969045 source:c:\users\ivelina\desktop\gfd\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
